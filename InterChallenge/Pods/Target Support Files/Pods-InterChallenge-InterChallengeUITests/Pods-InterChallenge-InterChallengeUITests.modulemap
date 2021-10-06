@@ -1,0 +1,6 @@
+framework module Pods_InterChallenge_InterChallengeUITests {
+  umbrella header "Pods-InterChallenge-InterChallengeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
